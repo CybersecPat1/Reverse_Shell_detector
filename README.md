@@ -12,3 +12,4 @@ The intention of this project is to provide an executable that detects if a reve
 
 The project will be written in python for the sake of my stupid brain being able to write it. 
 
+Reverse shells are a piece of software that creates an opening for an attacker to control your computer via the command line. These are generally used in the process of a cyber attack to gain persistence and access. The goal here is to detect when one of these has been created on your machine.
